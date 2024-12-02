@@ -48,7 +48,9 @@ Here are some ideas to get you started:
   <h2>🐍 Мои Коммиты 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://github.com/Orunov-Sultan/Orunov-Sultan/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.svg" />
+
+  ![snake gif](https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.svg)
 
   <br/><br/><br/>
 </div>
