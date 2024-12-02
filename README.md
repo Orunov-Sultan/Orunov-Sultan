@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Orunov-Sultan.Orunov-Sultan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Всем+Привет!+👋;+Я+Орунов+Султан!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Всем+Привет!+👋;+Меня+зовут+Султан!;" />
 </h1>
 
 <h3 align="center">Я начинающий Java разработчик из Узбекистана</h3>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github,git" />    
-    <img src="https://skillicons.dev/icons?i=react,typescript,java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,java,spring,mysql,postgresql" />
     <br>
 </div>
 
