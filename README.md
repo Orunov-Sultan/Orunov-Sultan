@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
   <img alt="snake eating my contributions" src="https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
+  <br/>
 </div>
 <hr/>
 
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Orunov-Sultan)](https://git.io/streak-stats)
+<img width=390 src="https://streak-stats.demolab.com/?user=Orunov-Sultan"  alt="streak stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Orunov-Sultan&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Orunov-Sultan&show_icons=true&rank_icon=github"  alt="github readme stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orunov-Sultan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orunov-Sultan&layout=compact"  alt="github readme stats"/>
 
 </div>
 
