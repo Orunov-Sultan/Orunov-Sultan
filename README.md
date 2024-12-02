@@ -52,3 +52,18 @@ Here are some ideas to get you started:
 
   <br/><br/><br/>
 </div>
+<hr/>
+
+<h2 align="center">⚡ Статистика ⚡</h2>
+<br>
+<div align=center>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Orunov-Sultan&theme=react)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Orunov-Sultan&show_icons=true&theme=react&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orunov-Sultan&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br/><br/>
