@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 Мои Коммиты 🐍</h2>
   <br>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
