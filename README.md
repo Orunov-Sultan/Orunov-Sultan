@@ -50,7 +50,5 @@ Here are some ideas to get you started:
 
   <img alt="snake eating my contributions" src="https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.svg" />
 
-  ![snake gif](https://github.com/Orunov-Sultan/Orunov-Sultan/blob/output/github-contribution-grid-snake.svg)
-
   <br/><br/><br/>
 </div>
