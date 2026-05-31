@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github,git" />    
-    <img src="https://skillicons.dev/icons?i=javascript,java,spring,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,mysql,postgresql" />
     <br>
 </div>
 
