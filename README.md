@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Языки-Фреймворки-Инструменты ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github,git" />    
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,github,git" />    
     <img src="https://skillicons.dev/icons?i=javascript,php,mysql,postgresql" />
     <br>
 </div>
